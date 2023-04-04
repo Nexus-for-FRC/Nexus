@@ -7,6 +7,14 @@ A web-based queuing system with SMS notifications designed to solve common queui
 [File issues here](https://github.com/frc-queue/frc-queue/issues/new) to report bugs or request new features.
 
 ## Change log
+### 2023 Week 6 (v209)
+
+- Updated icons and style for team check-in status to improve contrast
+  - Green check: fully checked in
+  - Yellow person: Human member of drive team checked in, but no robot
+
+![Updated icons](https://user-images.githubusercontent.com/2548822/229666756-e032dcfd-b75a-44c4-96f6-8e38715786f7.png)
+
 ### 2023 Week 2 (v197) 
 
 - Updated team phone number input field to include country selector. Team members with non-US phone numbers can either select their country with the flag dropdown or manually enter their country code preceeded by a `+`.
