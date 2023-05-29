@@ -1,12 +1,41 @@
 # 📢 [FRC Queue](https://www.frcqueue.com)
 A web-based queuing system with SMS notifications designed to solve common queuing pain points.
 
-**Current status**: Available for queuers to register for official events.
+**Current status**: Updated version available for offseason events
 
 ## Bugs/Feature requests
 [File issues here](https://github.com/frc-queue/frc-queue/issues/new) to report bugs or request new features.
 
 ## Change log
+### 2023 Offseason- May
+
+#### Updated queuing dashboard
+- Combined schedule management functionality into main queuing dashboard
+- All matches can be viewed from the main queuing screen (with button at the top to scroll to the current match)
+- Added ability to queuers to enter in playoff lineups
+- Added automatic imports of qual schedules & playoff alliances
+
+#### Updated team dashboard
+- Shows more information about a team's upcoming matches
+- Shows event announcements, parts requests, and the technical help request form
+- Added Discord option for queuing notifications
+
+#### New pit display
+- Designed for large screens & TVs
+- Displays queuing status, event announcements, parts requests and rankings
+
+#### New authorization system
+- Supports more fine grained roles (Admin, Lead queuer, Queuer, Pit admin, Field tech)
+- Supports "device accounts"- grant access to specific devices without needing to login to a Google account
+- New access request form makes it easier to onboard volunteers at events
+
+#### Misc
+- Added interface for pit admin volunteers to review and submit announcements
+- Overall UX refresh
+- Added light theme
+
+Updated documentation & demo events coming soon
+
 ### 2023 Week 6 (v209)
 
 - Updated icons and style for team check-in status to improve contrast
