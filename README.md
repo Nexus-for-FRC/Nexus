@@ -7,6 +7,23 @@ A web-based queuing system with SMS notifications designed to solve common queui
 [File issues here](https://github.com/frc-queue/frc-queue/issues/new) to report bugs or request new features.
 
 ## Change log
+### 2023 Offseason- July
+
+#### Updated queuing workflow
+- Queuing action buttons are now at the bottom of the screen instead of next to each match
+- Updated guidance to queue the next match when scores are posted instead of when the field reset signal is given
+- Simplified playoffs queuing significantly- winner selection is now on the main screen and will automatically trigger the next queuing action
+  - A new queuing sequence is implemented to maintain notification consistency (matches should be queued ~15 minutes before the teams need to be on the field)
+  - This will automatically queue the next playoff match at the right time, even taking breaks into consideration
+
+#### Added dedicated scorekeeper view 
+- Optimized for reading lineups for practice & playoff matches 
+
+#### Misc
+- Updated team handouts (now 3 per page)
+- Added playoff bracket to queuing screen
+- Moved alliance selection check-off to the main queuing screen
+
 ### 2023 Offseason- May
 
 #### Updated queuing dashboard
