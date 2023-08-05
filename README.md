@@ -1,5 +1,6 @@
-# 📢 [FRC Queue](https://www.frcqueue.com)
-A web-based queuing system with SMS notifications designed to solve common queuing pain points.
+# [Nexus for FRC](https://frc.nexus) (formerly "FRC Queue")
+
+A web-based event management system designed to improve the team experience at FRC events.
 
 **Current status**: Updated version available for offseason events
 
@@ -7,6 +8,21 @@ A web-based queuing system with SMS notifications designed to solve common queui
 [File issues here](https://github.com/frc-queue/frc-queue/issues/new) to report bugs or request new features.
 
 ## Change log
+### 2023 Offseason- August
+
+#### FRC Queue is now "Nexus for FRC"
+-  Updated URL to [frc.nexus](https://frc.nexus)
+
+#### Inspection tools (BETA)
+-  Added tools for LRIs and inspectors to track inspection status of robots at events
+
+#### Demos
+-  Demo events are now available from the [events page](https://frc.nexus/events)
+
+#### Documentation
+-  Updated event and volunteer guides are now published
+
+
 ### 2023 Offseason- July
 
 #### Updated queuing workflow
