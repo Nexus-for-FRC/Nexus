@@ -1,4 +1,4 @@
-# 📢 Community translations
+# Community translations
 Nexus for FRC can be localized into multiple languages to improve the non-English team experience.
 
 ## Supported languages
@@ -19,4 +19,4 @@ Any capable FRC community member is welcome to contribute translations.
 Want to review translations for accuracy and consistency? Email contact@frc.nexus.
 
 
-![localazy interface](https://github.com/FRC-Queue/FRC-Queue/assets/2548822/cbbe55ec-ab43-4512-b44b-fb7932327f12)
+![localazy interface](https://github.com/Nexus-for-FRC/Nexus/assets/2548822/17a42923-447e-405a-8f84-b310025d75f6)
