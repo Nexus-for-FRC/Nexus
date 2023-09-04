@@ -8,6 +8,12 @@ A web-based event management system designed to improve the team experience at F
 [File issues here](https://github.com/frc-queue/frc-queue/issues/new) to report bugs or request new features.
 
 ## Change log
+### 2023 Offseason- September
+
+#### Spanish
+-  All team-facing UIs are now available in Spanish. Use the selector in the footer to override the default language.
+   -  Thanks to Ivan, Alejandro, Fermin from FRC teams [6017](https://www.thebluealliance.com/team/6017) & [7421](https://www.thebluealliance.com/team/7421)!
+
 ### 2023 Offseason- August
 
 #### FRC Queue is now "Nexus for FRC"
