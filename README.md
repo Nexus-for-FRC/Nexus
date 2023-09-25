@@ -10,6 +10,9 @@ A web-based event management system designed to improve the team experience at F
 ## Change log
 ### 2023 Offseason- September
 
+#### Playoffs
+-  The [2024 playoff schedule](https://www.firstinspires.org/robotics/frc/blog/2023-double-elimination-2023-data-and-updates) is now used by default, with no breaks between rounds 1, 2, and 3. Prefer to use this schedule at offseasons whenever possible.
+
 #### Spanish
 -  All team-facing UIs are now available in Spanish. Use the selector in the footer to override the default language.
    -  Thanks to Ivan, Alejandro, Fermin from FRC teams [6017](https://www.thebluealliance.com/team/6017) & [7421](https://www.thebluealliance.com/team/7421)!
