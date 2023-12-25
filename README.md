@@ -2,12 +2,18 @@
 
 A web-based event management system designed to improve the team experience at FRC events.
 
-**Current status**: Updated version available for offseason events
+**Current status**: Preparing for the 2024 official season
 
 ## Bugs/Feature requests
 [File issues here](https://github.com/frc-queue/frc-queue/issues/new) to report bugs or request new features.
 
 ## Change log
+### 2024 Preseason- January
+-  Disabled ability for queuers to enter playoff lineups for official events
+-  Added volunteer walkthrough videos for [FTAs](https://frc.nexus/en/guide/fta), [lead queuers](https://frc.nexus/en/guide/lead-queuer), [LRIs](https://frc.nexus/en/guide/lri), and [pit admin](https://frc.nexus/en/guide/pit-admin)
+-  "Enable queuing extra match" option removed from settings- email contact@frc.nexus to enable this for your event
+-  Now accepting translation contributions for Hebrew, Turkish & Portuguese. View the [translations documentation](translations.md) for details on how to contribute
+
 ### 2023 Offseason- September
 
 #### Playoffs
