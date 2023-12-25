@@ -4,6 +4,9 @@ Nexus for FRC can be localized into multiple languages to improve the non-Englis
 ## Supported languages
 * English (source)
 * Spanish
+* Hebrew (looking for contributors)
+* Turkish (looking for contributors)
+* Portuguese (looking for contributors)
 
 ## Contribute translations
 Any capable FRC community member is welcome to contribute translations.
