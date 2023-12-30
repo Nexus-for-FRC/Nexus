@@ -13,6 +13,7 @@ A web-based event management system designed to improve the team experience at F
 -  Added volunteer walkthrough videos for [FTAs](https://frc.nexus/en/guide/fta), [lead queuers](https://frc.nexus/en/guide/lead-queuer), [LRIs](https://frc.nexus/en/guide/lri), and [pit admin](https://frc.nexus/en/guide/pit-admin)
 -  "Enable queuing extra match" option removed from settings- email contact@frc.nexus to enable this for your event
 -  Now accepting translation contributions for Hebrew, Turkish & Portuguese. View the [translations documentation](translations.md) for details on how to contribute
+-  Added the ability to export inspection data as a CSV
 
 ### 2023 Offseason- September
 
