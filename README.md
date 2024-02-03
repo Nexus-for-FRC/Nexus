@@ -8,6 +8,9 @@ A web-based event management system designed to improve the team experience at F
 [File issues here](https://github.com/frc-queue/frc-queue/issues/new) to report bugs or request new features.
 
 ## Change log
+### 2024 Preseason- February
+-  Updated inspection checklist to 2024v1
+
 ### 2024 Preseason- January
 -  Disabled ability for queuers to enter playoff lineups for official events
 -  Added volunteer walkthrough videos for [FTAs](https://frc.nexus/en/guide/fta), [lead queuers](https://frc.nexus/en/guide/lead-queuer), [LRIs](https://frc.nexus/en/guide/lri), and [pit admin](https://frc.nexus/en/guide/pit-admin)
