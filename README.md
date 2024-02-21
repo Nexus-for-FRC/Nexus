@@ -8,6 +8,9 @@ A web-based event management system designed to improve the team experience at F
 [File issues here](https://github.com/frc-queue/frc-queue/issues/new) to report bugs or request new features.
 
 ## Change log
+### 2024 Week 0
+-  Updated inspection checklist to 2024v2
+
 ### 2024 Preseason- February
 -  Updated inspection checklist to 2024v1
 
