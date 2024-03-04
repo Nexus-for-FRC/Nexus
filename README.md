@@ -8,6 +8,12 @@ A web-based event management system designed to improve the team experience at F
 [File issues here](https://github.com/frc-queue/frc-queue/issues/new) to report bugs or request new features.
 
 ## Change log
+### 2024 Week 2
+
+#### Turkish
+- All team-facing UIs are now available in Turkish. Use the selector in the footer to override the default language.
+  - Thanks to Oğuzhan!
+
 ### 2024 Week 0
 -  Updated inspection checklist to 2024v2
 
