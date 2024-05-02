@@ -1,4 +1,4 @@
-# [Nexus for FRC](https://frc.nexus) (formerly "FRC Queue")
+# [Nexus for FRC](https://frc.nexus)
 
 A web-based event management system designed to improve the team experience at FRC events.
 
