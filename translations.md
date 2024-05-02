@@ -8,6 +8,8 @@ Nexus for FRC can be localized into multiple languages to improve the non-Englis
 * Hebrew (looking for contributors)
 * Portuguese (looking for contributors)
 
+Want to add a new language? Email contact@frc.nexus.
+
 ## Contribute translations
 Any capable FRC community member is welcome to contribute translations.
 
@@ -19,7 +21,6 @@ Any capable FRC community member is welcome to contribute translations.
 5. If there's not enough context provided to accurately translate, leave a comment
 
 
-Want to add a new language? Email contact@frc.nexus.
 
 ![localazy interface](https://github.com/Nexus-for-FRC/Nexus/assets/2548822/17a42923-447e-405a-8f84-b310025d75f6)
 
@@ -27,3 +28,5 @@ Want to add a new language? Email contact@frc.nexus.
 Major contributors by language:
 *  Spanish
    *  Ivan, Alejandro, Fermin from FRC teams [6017](https://www.thebluealliance.com/team/6017) & [7421](https://www.thebluealliance.com/team/7421) 
+*  Turkish
+   * Oğuzhan 
