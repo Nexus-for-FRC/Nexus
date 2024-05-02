@@ -2,13 +2,21 @@
 
 A web-based event management system designed to improve the team experience at FRC events.
 
-**Current status**: Available for 2024 official events
+**Current status**: Available for 2024 offseason events
 
 ## Bugs/Feature requests
 [File issues here](https://github.com/frc-queue/frc-queue/issues/new) to report bugs or request new features.
 
 ## Change log
+### 2024 Offseason- May
+- Added QR-code based volunteer onboarding flow to the user & inspector management pages
+- Updated inspection checklist to 2024v3
+- When manually importing matches, blue teams are now on the left. The team order now matches the FMS match report.
+- Queuers can now see the scheduled start time for each practice & qualification match by tapping the match name
+<img src="https://github.com/Nexus-for-FRC/Nexus/assets/2548822/8195b1ec-c39e-44f7-81b1-b3b4c3ec8682" alt="Scheduled match time" width="300"/>
+
 ### 2024 Week 2
+
 
 #### Turkish
 - All team-facing UIs are now available in Turkish. Use the selector in the footer to override the default language.
