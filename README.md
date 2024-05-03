@@ -10,6 +10,7 @@ A web-based event management system designed to improve the team experience at F
 ## Change log
 ### 2024 Offseason- May
 - Added QR-code based volunteer onboarding flow to the user & inspector management pages
+- Added option to grant additional roles to existing users on the user management page
 - Updated inspection checklist to 2024v3
 - When manually importing matches, blue teams are now on the left. The team order now matches the FMS match report.
 - Queuers can now see the scheduled start time for each practice & qualification match by tapping the match name
@@ -35,80 +36,80 @@ A web-based event management system designed to improve the team experience at F
 -  Now accepting translation contributions for Hebrew, Turkish & Portuguese. View the [translations documentation](translations.md) for details on how to contribute
 -  Added the ability to export inspection data as a CSV
 
-### 2023 Offseason- September
-
-#### Playoffs
--  The [2024 playoff schedule](https://www.firstinspires.org/robotics/frc/blog/2023-double-elimination-2023-data-and-updates) is now used by default, with no breaks between rounds 1, 2, and 3. Prefer to use this schedule at offseasons whenever possible.
-
-#### Spanish
--  All team-facing UIs are now available in Spanish. Use the selector in the footer to override the default language.
-   -  Thanks to Ivan, Alejandro, Fermin from FRC teams [6017](https://www.thebluealliance.com/team/6017) & [7421](https://www.thebluealliance.com/team/7421)!
-
-### 2023 Offseason- August
-
-#### FRC Queue is now "Nexus for FRC"
--  Updated URL to [frc.nexus](https://frc.nexus)
-
-#### Inspection tools (BETA)
--  Added tools for LRIs and inspectors to track inspection status of robots at events
-
-#### Demos
--  Demo events are now available from the [events page](https://frc.nexus/events)
-
-#### Documentation
--  Updated event and volunteer guides are now published
-
-
-### 2023 Offseason- July
-
-#### Updated queuing workflow
-- Queuing action buttons are now at the bottom of the screen instead of next to each match
-- Updated guidance to queue the next match when scores are posted instead of when the field reset signal is given
-- Simplified playoffs queuing significantly- winner selection is now on the main screen and will automatically trigger the next queuing action
-  - A new queuing sequence is implemented to maintain notification consistency (matches should be queued ~15 minutes before the teams need to be on the field)
-  - This will automatically queue the next playoff match at the right time, even taking breaks into consideration
-
-#### Added dedicated scorekeeper view 
-- Optimized for reading lineups for practice & playoff matches 
-
-#### Misc
-- Updated team handouts (now 3 per page)
-- Added playoff bracket to queuing screen
-- Moved alliance selection check-off to the main queuing screen
-
-### 2023 Offseason- May
-
-#### Updated queuing dashboard
-- Combined schedule management functionality into main queuing dashboard
-- All matches can be viewed from the main queuing screen (with button at the top to scroll to the current match)
-- Added ability to queuers to enter in playoff lineups
-- Added automatic imports of qual schedules & playoff alliances
-
-#### Updated team dashboard
-- Shows more information about a team's upcoming matches
-- Shows event announcements, parts requests, and the technical help request form
-- Added Discord option for queuing notifications
-
-#### New pit display
-- Designed for large screens & TVs
-- Displays queuing status, event announcements, parts requests and rankings
-
-#### New authorization system
-- Supports more fine grained roles (Admin, Lead queuer, Queuer, Pit admin, Field tech)
-- Supports "device accounts"- grant access to specific devices without needing to login to a Google account
-- New access request form makes it easier to onboard volunteers at events
-
-#### Misc
-- Added interface for pit admin volunteers to review and submit announcements
-- Overall UX refresh
-- Added light theme
-
-Updated documentation & demo events coming soon
-
 <details>
    <summary>
      <h3>Older changes</h3>
    </summary>
+
+  ### 2023 Offseason- September
+  
+  #### Playoffs
+  -  The [2024 playoff schedule](https://www.firstinspires.org/robotics/frc/blog/2023-double-elimination-2023-data-and-updates) is now used by default, with no breaks between rounds 1, 2, and 3. Prefer to use this schedule at offseasons whenever possible.
+  
+  #### Spanish
+  -  All team-facing UIs are now available in Spanish. Use the selector in the footer to override the default language.
+     -  Thanks to Ivan, Alejandro, Fermin from FRC teams [6017](https://www.thebluealliance.com/team/6017) & [7421](https://www.thebluealliance.com/team/7421)!
+  
+  ### 2023 Offseason- August
+  
+  #### FRC Queue is now "Nexus for FRC"
+  -  Updated URL to [frc.nexus](https://frc.nexus)
+  
+  #### Inspection tools (BETA)
+  -  Added tools for LRIs and inspectors to track inspection status of robots at events
+  
+  #### Demos
+  -  Demo events are now available from the [events page](https://frc.nexus/events)
+  
+  #### Documentation
+  -  Updated event and volunteer guides are now published
+  
+  
+  ### 2023 Offseason- July
+  
+  #### Updated queuing workflow
+  - Queuing action buttons are now at the bottom of the screen instead of next to each match
+  - Updated guidance to queue the next match when scores are posted instead of when the field reset signal is given
+  - Simplified playoffs queuing significantly- winner selection is now on the main screen and will automatically trigger the next queuing action
+    - A new queuing sequence is implemented to maintain notification consistency (matches should be queued ~15 minutes before the teams need to be on the field)
+    - This will automatically queue the next playoff match at the right time, even taking breaks into consideration
+  
+  #### Added dedicated scorekeeper view 
+  - Optimized for reading lineups for practice & playoff matches 
+  
+  #### Misc
+  - Updated team handouts (now 3 per page)
+  - Added playoff bracket to queuing screen
+  - Moved alliance selection check-off to the main queuing screen
+  
+  ### 2023 Offseason- May
+  
+  #### Updated queuing dashboard
+  - Combined schedule management functionality into main queuing dashboard
+  - All matches can be viewed from the main queuing screen (with button at the top to scroll to the current match)
+  - Added ability to queuers to enter in playoff lineups
+  - Added automatic imports of qual schedules & playoff alliances
+  
+  #### Updated team dashboard
+  - Shows more information about a team's upcoming matches
+  - Shows event announcements, parts requests, and the technical help request form
+  - Added Discord option for queuing notifications
+  
+  #### New pit display
+  - Designed for large screens & TVs
+  - Displays queuing status, event announcements, parts requests and rankings
+  
+  #### New authorization system
+  - Supports more fine grained roles (Admin, Lead queuer, Queuer, Pit admin, Field tech)
+  - Supports "device accounts"- grant access to specific devices without needing to login to a Google account
+  - New access request form makes it easier to onboard volunteers at events
+  
+  #### Misc
+  - Added interface for pit admin volunteers to review and submit announcements
+  - Overall UX refresh
+  - Added light theme
+  
+  Updated documentation & demo events coming soon
 
    ### 2023 Week 6 (v209)
 
