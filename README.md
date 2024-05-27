@@ -8,6 +8,16 @@ A web-based event management system designed to improve the team experience at F
 [File issues here](https://github.com/frc-queue/frc-queue/issues/new) to report bugs or request new features.
 
 ## Change log
+### 2024 Offseason- June
+- Added public API v1.0.0 which allows developers to use live event status data and match timing estimates in their own applications
+- Re-designed "volunteer menu" to improve navigation exprience between event volunteer pages
+- Added link to the "Nexus Support" Slack workspace on all volunteer pages
+- Added "audience" display to show the next few upcoming matches including team numbers
+- Added schedule behind/ahead indicator to queuing dashboard
+- Added schedule behind/ahead indicator to pit display
+- Added "Create filler match" button to the main queuing screen during practice matches
+- Minor updates to simplify the teams list page
+
 ### 2024 Offseason- May
 - Added QR-code based volunteer onboarding flow to the user & inspector management pages
 - Added option to grant additional roles to existing users on the user management page
