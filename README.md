@@ -9,22 +9,55 @@ A web-based event management system designed to improve the team experience at F
 
 ## Change log
 ### 2024 Offseason- June
-- Added public API v1.0.0 which allows developers to use live event status data and match timing estimates in their own applications
-- Re-designed "volunteer menu" to improve navigation exprience between event volunteer pages
-- Added link to the "Nexus Support" Slack workspace on all volunteer pages
-- Added "audience" display to show the next few upcoming matches including team numbers
-- Added schedule behind/ahead indicator to queuing dashboard
-- Added schedule behind/ahead indicator to pit display
+
+#### API
+- Added public API v1.1.0 which allows developers to use live event status data and match timing estimates in their own applications
+
+#### Queuing
+- Implemented "slide to queue" for touchscreen devices to reduce mistaken taps
+- Updated queue timing tooltip to include detailed timing for each match. This can now be viewed when hovering over the match status chip on the main queuing screen
+  - Estimated times will be shown for future status changes (with tilde)
+  - Actual times will be shown for past status changes
+  - Scheduled match start time will be shown if available
+- Improved protection against accidental double queuing. A warning will now be shown if *any* user has updated a match status within the past 4 minutes. Select the confirmation checkbox to bypass the warning and queue anyway.
+- Added underline in the filler team selection dialog if a team has not played in any matches yet
+- Added "unset winner" option for playoff matches, in case of an accidental selection or late replay announcement
+- Added schedule behind/ahead indicator to queuing dashboard header
 - Added "Create filler match" button to the main queuing screen during practice matches
-- Minor updates to simplify the teams list page
+
+#### Teams list page
+- Minor changes to simplify the teams table 
+- Added column to indicate if each team has played in a match
+- Added ability to create custom team check-off columns for arbitrary tracking of teams
+
+#### Volunteer menu
+- The new "volunteer menu" improves the navigation experience between event volunteer pages
+- Added link to the "Nexus Support" Slack workspace
+- Added a yellow badge on the volunteer menu that is shown when there are actionable requests (user access requests, pending parts requests, and LRI requests)
+
+#### Displays
+- Added schedule behind/ahead indicator to pit display
+- Added "audience" display to show the next few upcoming matches including team numbers
+- Added simple "queuing" display to show the match that is currently on field and any upcoming matches that are on deck or now queuing
+
+
+#### Misc
+- Added "Playoff type" setting
+   - View [all bracket options here](https://github.com/Nexus-for-FRC/Nexus/blob/main/playoffs.md)
+- Added keyboard shortcuts:
+  - FTA Notepad: 
+      - Previous `,`
+      - Next `.`
+      - Current `/`
+  - Queuing: Scroll to now `/`
+  - Scorekeeper: Scroll to now `/`
+
 
 ### 2024 Offseason- May
 - Added QR-code based volunteer onboarding flow to the user & inspector management pages
 - Added option to grant additional roles to existing users on the user management page
 - Updated inspection checklist to 2024v3
 - When manually importing matches, blue teams are now on the left. The team order now matches the FMS match report.
-- Queuers can now see the scheduled start time for each practice & qualification match by tapping the match name
-<img src="https://github.com/Nexus-for-FRC/Nexus/assets/2548822/8195b1ec-c39e-44f7-81b1-b3b4c3ec8682" alt="Scheduled match time" width="300"/>
 
 ### 2024 Week 2
 
