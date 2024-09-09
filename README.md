@@ -8,6 +8,27 @@ A web-based event management system designed to improve the team experience at F
 [File issues here](https://github.com/frc-queue/frc-queue/issues/new) to report bugs or request new features.
 
 ## Change log
+### 2024 Offseason- September
+
+#### Inspection
+- Added "on hold" state for in-progress inspections that do not currently require attention from inspectors
+- Added log page to view the full history of inspection actions for a specific team
+- Added checking of inspection items from the full checklist view (useful for inspectors who prefer to check items in arbitrary order)
+- Added manual inspector assignment/unassignment buttons. Inspector assignment still happens implicitly when certain actions are taken, but in some cases the explicit assignment may be useful
+- Added option to manually move a "not started" team to "waiting for inspector". This is useful for venues that don't support the inspection process that begins with weigh-in
+- Weight values are now displayed in the main checklist view
+- Weight values can now be entered and displayed in metric by tapping the units next to the input fields
+- If a team is scheduled in an upcoming match, it will be displayed on the team's inspection page
+- Added reinspection for items that require inspector attention after a team's initial certification
+  - Teams can request reinspection themselves by scanning their Nexus code, tapping "Request reinspection" and filling out the form
+  - FTAs can request reinspection for teams from the FTA notepad
+  - Inspectors can flag teams for reinspection from the team's inspection page
+- An inspector Slack channel can now be connected on the LRI requests page. The channel will receive a message anytime:
+  - An inspector flags a checklist item for the LRI
+  - An inspector flags a team for reinspection
+  - An FTA flags a team for reinspection
+  - A team requests reinspection by scanning their Nexus code and filling out the form
+
 ### 2024 Offseason- June
 
 #### API
