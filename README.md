@@ -28,6 +28,8 @@ A web-based event management system designed to improve the team experience at F
   - An inspector flags a team for reinspection
   - An FTA flags a team for reinspection
   - A team requests reinspection by scanning their Nexus code and filling out the form
+- A notification will now be sent to each team when their inspection is certified (if they have registered for notifications)
+  - The message will include a reminder of the reinspection rule
 
 ### 2024 Offseason- June
 
