@@ -8,6 +8,11 @@ A web-based event management system designed to improve the team experience at F
 [File issues here](https://github.com/frc-queue/frc-queue/issues/new) to report bugs or request new features.
 
 ## Change log
+### 2024 Offseason- November
+
+#### Inspection
+- Added "Start playoff reinspection" button on the LRI requests page. All teams can be flagged for a playoff reinspection with a single tap on the LRI requests page. Tap this button on the last day of the event, prior to the last round of qualifications. Every team that completed their initial inspection will be moved to the "Waiting for inspector" section. Teams will be sorted chronologically by their last qualification match, so they can be quickly processed in order.
+
 ### 2024 Offseason- September
 
 #### Inspection
