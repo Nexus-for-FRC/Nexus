@@ -8,6 +8,21 @@ A web-based event management system designed to improve the team experience at F
 [File issues here](https://github.com/frc-queue/frc-queue/issues/new) to report bugs or request new features.
 
 ## Change log
+### 2024 Offseason- December
+
+#### Pick-a-pit
+- Pick-a-Pit is a system that allows teams to select their pit location for a specific event. Access can be prioritized to provide a team incentive, for example, to encourage volunteering. Pick-a-Pit was trialed in Northern California for the 2024 season and is now available by request for any FRC event.
+
+#### The Map Update
+- Added Pit Mapper (beta) tool that allows volunteers to design pit maps that can be viewed by volunteers and teams at the event
+- Added pit assignment interface to allow volunteers to assign teams to specific pit locations
+- Added option to view inspection progress as a map
+- Custom team checklists (created on the teams page) can now be viewed as a map
+- Teams can view the pit map and search for specific teams
+
+![Inspection map](https://github.com/user-attachments/assets/e83b5b62-940b-4da6-ae4e-586f69e718e8)
+
+
 ### 2024 Offseason- November
 
 #### Inspection
