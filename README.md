@@ -2,16 +2,19 @@
 
 A web-based event management system designed to improve the team experience at FRC events.
 
-**Current status**: Available for 2024 offseason events
-
 ## Bugs/Feature requests
 [File issues here](https://github.com/frc-queue/frc-queue/issues/new) to report bugs or request new features.
 
 ## Change log
+### 2025 Preseason- January
+
+#### Announcement notifications
+- Teams can now opt in to recieve Slack or Discord notifications for event announcements and parts requests. The parts requests system will be available at all events.
+
 ### 2024 Offseason- December
 
 #### Pick-a-pit
-- Pick-a-Pit is a system that allows teams to select their pit location for a specific event. Access can be prioritized to provide a team incentive, for example, to encourage volunteering. Pick-a-Pit was trialed in Northern California for the 2024 season and is now available by request for any FRC event.
+- Pick-a-Pit is a system that allows teams to select their pit location for a specific event. Access can be prioritized to provide a team incentive, for example, to encourage volunteering. Pick-a-Pit was trialed in Northern California for the 2024 season and is now available for any event. Select "Pick-a-pit" in the volunteer menu for your event to get started.
 
 #### The Map Update
 - Added Pit Mapper (beta) tool that allows volunteers to design pit maps that can be viewed by volunteers and teams at the event
