@@ -11,6 +11,12 @@ A web-based event management system designed to improve the team experience at F
 #### Announcement notifications
 - Teams can now opt in to recieve Slack or Discord notifications for event announcements and parts requests. The parts requests system will be available at all events.
 
+#### Inspection
+- Bumper weight input interface updated to support 2025 weight limits
+
+#### Pit display
+- Added announcements and parts requests carousel to pit display during playoffs
+
 ### 2024 Offseason- December
 
 #### Pick-a-pit
