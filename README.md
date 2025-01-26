@@ -111,30 +111,31 @@ A web-based event management system designed to improve the team experience at F
 - Updated inspection checklist to 2024v3
 - When manually importing matches, blue teams are now on the left. The team order now matches the FMS match report.
 
-### 2024 Week 2
-
-
-#### Turkish
-- All team-facing UIs are now available in Turkish. Use the selector in the footer to override the default language.
-  - Thanks to Oğuzhan!
-
-### 2024 Week 0
--  Updated inspection checklist to 2024v2
-
-### 2024 Preseason- February
--  Updated inspection checklist to 2024v1
-
-### 2024 Preseason- January
--  Disabled ability for queuers to enter playoff lineups for official events
--  Added volunteer walkthrough videos for [FTAs](https://frc.nexus/en/guide/fta), [lead queuers](https://frc.nexus/en/guide/lead-queuer), [LRIs](https://frc.nexus/en/guide/lri), and [pit admin](https://frc.nexus/en/guide/pit-admin)
--  "Enable queuing extra match" option removed from settings- email contact@frc.nexus to enable this for your event
--  Now accepting translation contributions for Hebrew, Turkish & Portuguese. View the [translations documentation](translations.md) for details on how to contribute
--  Added the ability to export inspection data as a CSV
-
 <details>
    <summary>
      <h3>Older changes</h3>
    </summary>
+
+  ### 2024 Week 2
+
+
+  #### Turkish
+  - All team-facing UIs are now available in Turkish. Use the selector in the footer to override the default language.
+    - Thanks to Oğuzhan!
+  
+  ### 2024 Week 0
+  -  Updated inspection checklist to 2024v2
+  
+  ### 2024 Preseason- February
+  -  Updated inspection checklist to 2024v1
+  
+  ### 2024 Preseason- January
+  -  Disabled ability for queuers to enter playoff lineups for official events
+  -  Added volunteer walkthrough videos for [FTAs](https://frc.nexus/en/guide/fta), [lead queuers](https://frc.nexus/en/guide/lead-queuer), [LRIs](https://frc.nexus/en/guide/lri), and [pit admin](https://frc.nexus/en/guide/pit-admin)
+  -  "Enable queuing extra match" option removed from settings- email contact@frc.nexus to enable this for your event
+  -  Now accepting translation contributions for Hebrew, Turkish & Portuguese. View the [translations documentation](translations.md) for details on how to contribute
+  -  Added the ability to export inspection data as a CSV
+
 
   ### 2023 Offseason- September
   
