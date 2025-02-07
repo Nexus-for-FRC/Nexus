@@ -11,6 +11,9 @@ A web-based event management system designed to improve the team experience at F
 #### Inspection
 - Updated inspection checklist to 2025v1
 
+#### Backup teams
+- When adding backup teams to an alliance on the alliances page, lead queuers can now optionally send a notification to the affected team
+
 ### 2025 Preseason- January
 
 #### Announcement notifications
