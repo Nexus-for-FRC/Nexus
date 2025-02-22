@@ -8,11 +8,28 @@ A web-based event management system designed to improve the team experience at F
 ## Change log
 ### 2025 Preseason- February
 
+#### [PRECHECK self-inspection tool](https://precheck.frc.nexus)
+- Teams can now self-inspect their robot in preparation for their event using an interface similar to the Nexus inspection tool
+
 #### Inspection
 - Updated inspection checklist to 2025v1
+- Added additional inspection queue details to team dashboards. Teams will now see a message if:
+  - Their inspection is on hold, reminding them to come back to the inspection desk when they are ready to continue
+  - They have not started inspection, letting them know the current length of the queue
+  - They are in the inspection queue, letting them know their position in the queue
+- Added ability to manually remove a team from the inspection queue
+  - This option is only available if the team has no inspection items checked
 
 #### Backup teams
 - When adding backup teams to an alliance on the alliances page, lead queuers can now optionally send a notification to the affected team
+
+#### Pit maps
+- Added print option to the pit map page
+- Added export/import options to the pit mapper
+- Released [new guide](https://docs.google.com/document/d/1JHC57FplPKbV4FMgTpkzY3IFIxYkFqXP5Ao9lbOYIuU/edit?usp=sharing) for creating pit maps
+
+#### FTA notepad
+- Added option to export all notes
 
 ### 2025 Preseason- January
 
