@@ -8,6 +8,9 @@ A web-based event management system designed to improve the team experience at F
 ## Change log
 ### 2025 Preseason- February
 
+#### [New volunteer guides](https://guides.frc.nexus)
+Hopefully these new guides are useful for volunteers who prefer longer form written documentation. There are currently 33 guides spanning from [getting access](https://guides.frc.nexus/guides/get-access) to [keeping the match schedule up to date](https://guides.frc.nexus/guides/match-schedule). Guides will be added and improved over time, but if you see something missing let me know.
+
 #### [PRECHECK self-inspection tool](https://precheck.frc.nexus)
 - Teams can now self-inspect their robot in preparation for their event using an interface similar to the Nexus inspection tool
 
