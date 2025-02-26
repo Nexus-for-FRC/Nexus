@@ -17,8 +17,11 @@ A web-based event management system designed to improve the team experience at F
   - Their inspection is on hold, reminding them to come back to the inspection desk when they are ready to continue
   - They have not started inspection, letting them know the current length of the queue
   - They are in the inspection queue, letting them know their position in the queue
+- Added additional inspection status details to the team list page
 - Added ability to manually remove a team from the inspection queue
   - This option is only available if the team has no inspection items checked
+- Automatically clear any assigned inspector when placing a team on hold
+- Improved rendering of bumper weight input fields for x-small screens
 
 #### Backup teams
 - When adding backup teams to an alliance on the alliances page, lead queuers can now optionally send a notification to the affected team
@@ -26,10 +29,13 @@ A web-based event management system designed to improve the team experience at F
 #### Pit maps
 - Added print option to the pit map page
 - Added export/import options to the pit mapper
-- Released [new guide](https://docs.google.com/document/d/1JHC57FplPKbV4FMgTpkzY3IFIxYkFqXP5Ao9lbOYIuU/edit?usp=sharing) for creating pit maps
+- Released [new guide](https://guides.frc.nexus/guides/pit-map) for creating pit maps
 
 #### FTA notepad
 - Added option to export all notes
+
+#### Custom team columns
+- Added option for "free text" custom columns
 
 ### 2025 Preseason- January
 
