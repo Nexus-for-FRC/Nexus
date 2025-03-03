@@ -6,6 +6,11 @@ A web-based event management system designed to improve the team experience at F
 [File issues here](https://github.com/frc-queue/frc-queue/issues/new) to report bugs or request new features.
 
 ## Change log
+### 2025 Week 2
+#### Inspection
+- Fixed bug where if you updated the weight field of a team that was already in the inspection queue, they would be moved to the back of the queue
+- Added option to skip the "total inpected weight" item if the team has no swappable mechanisms
+
 ### 2025 Preseason- February
 
 #### [New volunteer guides](https://guides.frc.nexus)
