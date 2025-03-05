@@ -8,6 +8,7 @@ A web-based event management system designed to improve the team experience at F
 ## Change log
 ### 2025 Week 2
 #### Inspection
+- Updated inspection checklist to 2025 Rev 2
 - Fixed bug where if you updated the weight field of a team that was already in the inspection queue, they would be moved to the back of the queue
 - Added option to skip the "total inpected weight" item if the team has no swappable mechanisms
 
