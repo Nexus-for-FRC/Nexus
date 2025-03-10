@@ -6,6 +6,11 @@ A web-based event management system designed to improve the team experience at F
 [File issues here](https://github.com/frc-queue/frc-queue/issues/new) to report bugs or request new features.
 
 ## Change log
+### 2025 Week 3
+- Pit addresses are now included on team handouts if set
+- Each header on the teams page table now includes a tooltip indicating the number of teams that have completed that column
+- On the inspectors page, all teams that each inspector certified will be shown
+
 ### 2025 Week 2
 #### Inspection
 - Updated inspection checklist to 2025 Rev 2
